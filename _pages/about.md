@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>National University of Singapore</a>. 
+subtitle: <a href='#'>National University of Singapore</a>. yiqing[dot]xu[at]u[dot]nus[dot]edu
 
 profile:
   align: right
