@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>National University of Singapore</a>. 
+subtitle: <a href='#'>National University of Singapore</a>. yiqing[dot]xu[at]u[dot]nus[dot]edu.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>NUS School of Computing, COM1, 13, Computing Dr</p>
@@ -23,7 +23,7 @@ I’m Yiqing Xu, a CS Ph.D. candidate at National University of Singapore advise
 I am currently a visiting Ph.D. student at MIT CSAIL, advised by Prof. [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) and Prof. [Tomás Lozano-Pérez](https://people.csail.mit.edu/tlp/index.html).
 
 
-<h2><a style="color: inherit;">Research Highlights</a></h2>
+<h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Research Highlights</a></h2>
 
 My research in Machine Learning is geared toward its application in robotics, with a focus on translating human intentions into clear signals that machines can optimize. Central to my work is developing efficient representations that encapsulate human objectives, enhancing the synergy between intelligent agent and human data.
 
