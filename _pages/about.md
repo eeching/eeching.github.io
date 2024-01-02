@@ -6,7 +6,7 @@ subtitle: <a href='#'>National University of Singapore</a>.
 
 profile:
   align: right
-  image: img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>NUS School of Computing, COM1, 13, Computing Dr</p>
