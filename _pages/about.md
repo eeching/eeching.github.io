@@ -25,6 +25,6 @@ I am currently a visiting Ph.D. student at MIT CSAIL, advised by Prof. [Leslie K
 
 <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">research highlights</a></h2>
 
-My research in Machine Learning is geared toward its application in robotics, with a focus on translating human intentions into clear signals that machines can optimize. Central to my work is developing efficient representations that encapsulate human objectives, enhancing the synergy between intelligent agent and human data.
-
-I delve into learning reward functions that reflect human goals from sparse data. Recently, I've explored learning the reward functions for physical skills using large language models via self-alignment. Currently, I'm pursuing ways to articulate robotics tasks with indistinct goals—like "tidying a table"—through structures more adaptable and integrative than traditional reward systems.
+My research on Robot Learning focuses on translating human objectives into signals for machine optimization. I design algorithms and learn representations to align AI agents more closely with human objectives, enabling them to better understand and assist humans.
+ 
+I've been working on algorithm research and theoretical analysis of inferring reward functions (Inverse RL) from limited data. Recently, I've used large language models to learn reward functions for motor skills through self-alignment. My ongoing work addresses the challenge of defining and solving robotics tasks with ambiguous and multi-factorial objectives, such a ``tidying up a table", using more flexible and comprehensive frameworks than conventional reward mechanisms.
