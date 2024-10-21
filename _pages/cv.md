@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Yiqing XU's resume
+title: Yiqing's resume
 nav: true
 nav_order: 2
 cv_pdf: Yiqing_Resume.pdf
