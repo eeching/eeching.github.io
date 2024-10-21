@@ -1,29 +1,30 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.A. Computer Science and B.A. Applied Mathematics
-      institution: National University of Singapore
-      year: 2016, Aug - 2020, Jun
-      
     - title: Ph.D. in Computer Science
       institution: National University of Singapore
-      year: 2020, Aug - 2025, Jun (Expected)
+      year: 2020 - 2025 (Expected)
+    - title: B.A. in Computer Science and B.A. in Applied Mathematics
+      institution: National University of Singapore
+      year: 2016 - 2020
+      
+    
 
 - title: Research Experience
   type: time_table
   contents:
     - title: Visiting PhD student
       institution: CSAIL, MIT
-      year: 2023, Aug - Present
+      year: 2023, Sep - 2025, Feb
       description:
         - Advised by Prof. Prof. Leslie Kaelbling and Prof. Tomás Lozano-Pérez
-        - Building a system to ground and optimize common-sense and multi-factorial objectives such as ``tidiness''. In particular, we ground the concept using multiple Diffusion Models (DMs) for the basic object relationships and optimize them jointly.
+        - Developed "Set It Up!", a neuro-symbolic system that interprets and optimizes under-specified instructions for tabletop arrangements. Published at RSS 2024.
        
     - title: PhD student
       institution: School of Computing, National Univeristy of Singapore
       year: 2020, Aug - Present
       description:
         - Advised by Prof. David Hsu
-        - Designed IRL methods to scale up reward learning (Inverse RL) to long-horizon and high-dimensional tasks.
+        - Designed IRL methods to scale up reward learning (Inverse RL) to long-horizon, high-dimensional tasks.
+        - Developed methods to learn human objectives from diverse sources—demonstrations, language instructions, pre-trained models, and synthetic data—and translated these signals into optimization.
         - Built a simulator and benchmark for the Differentiable Deformable Object Manipulation methods.
-        - Learnt/represented human objectives through various data forms such as demonstration, unstructured play, and foundational models.
