@@ -3,10 +3,10 @@
   contents:
     - title: Ph.D. in Computer Science
       institution: National University of Singapore
-      year: 2020 - 2025 (Expected)
+      year: 2020-Present
     - title: B.A. in Computer Science and B.A. in Applied Mathematics
       institution: National University of Singapore
-      year: 2016 - 2020
+      year: 2016-2020
       
     
 
@@ -15,14 +15,14 @@
   contents:
     - title: Visiting PhD student
       institution: CSAIL, MIT
-      year: 2023, Sep - 2025, Feb
+      year: 2023-2024
       description:
         - Advised by Prof. Prof. Leslie Kaelbling and Prof. Tomás Lozano-Pérez
         - Developed "Set It Up!", a neuro-symbolic system that interprets and optimizes under-specified instructions for tabletop arrangements. Published at RSS 2024.
        
     - title: PhD student
       institution: School of Computing, National Univeristy of Singapore
-      year: 2020, Aug - Present
+      year: 2020-Present
       description:
         - Advised by Prof. David Hsu
         - Designed IRL methods to scale up reward learning (Inverse RL) to long-horizon, high-dimensional tasks.
@@ -32,22 +32,29 @@
 - title: Professional Services
   type: time_table
   contents: 
-    - title: Main Organizer for Workshop on Task Specification at RSS 2024
+    - title: Task Specification Workshop at RSS 2024
       institution: Delft, Netherlands
       year: 2024, July
-    - title: Co-organizer for the 2nd Workshop on Learning Effective Abstraction for Planning (LEAP) at CoRL 2024
+      description:
+        - Main organizer for the Workshop on Task Specification at Robotics\: Science and Systems (RSS) 2024.
+    - title: 2nd LEAP Workshop at CoRL 2024
       institution: Munich, Germany
       year: 2024, Nov
-    - title: Reviewer
+      description:
+        - Co-organizer for the 2nd Workshop on Learning Effective Abstraction for Planning (LEAP) at Conference on Robot Learning (CoRL) 2024.
+    - title: Conference Reviewer
       institution: NeurIPS, ICML, ICLR, RSS, ICRA, AAAI, AAMAS
       year: 2021 - Present
 
 - title: Teaching
   type: time_table
   contents:
-    - title: Teaching Assistant for CS4278/CS5478 Intelligent Robots, Algorithms and Systems
+    - title: CS4278/CS5478 Intelligent Robots, Algorithms and Systems
       institution: National University of Singapore
-      year: 2021- 2022, SEM2
+      year: 2021-2022, SEM2
+      description:
+        - Teaching Assistant
+        - Conducted tutorials, graded assignments, and provided feedback to students.
 
 - title: Skills
   type: list
