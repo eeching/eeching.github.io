@@ -28,3 +28,30 @@
         - Designed IRL methods to scale up reward learning (Inverse RL) to long-horizon, high-dimensional tasks.
         - Developed methods to learn human objectives from diverse sources—demonstrations, language instructions, pre-trained models, and synthetic data—and translated these signals into optimization.
         - Built a simulator and benchmark for the Differentiable Deformable Object Manipulation methods.
+
+- title: Professional Services
+  type: time_table
+  contents: 
+    - title: Main Organizer for Workshop on Task Specification at RSS 2024
+      institution: Delft, Netherlands
+      year: 2024, July
+    - title: Co-organizer for the 2nd Workshop on Learning Effective Abstraction for Planning (LEAP) at CoRL 2024
+      institution: Munich, Germany
+      year: 2024, Nov
+    - title: Reviewer
+      institution: NeurIPS, ICML, ICLR, RSS, ICRA, AAAI, AAMAS
+      year: 2021 - Present
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant for CS4278/CS5478 Intelligent Robots, Algorithms and Systems
+      institution: National University of Singapore
+      year: 2021- 2022, SEM2
+
+- title: Skills
+  type: list
+  contents: Python, Jax, Java, PyTorch, TensorFlow, Mujoco, IssacSim
+   
+
+
