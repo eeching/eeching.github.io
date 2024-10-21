@@ -4,8 +4,5 @@
           </div> -->
 
           <div class="publications">
-            {% assign selected_papers = site.bibliography | where: 'selected', 'true' | sort: 'year' | reverse %}
-            {% for paper in selected_papers %}
-              {{ paper | cite }}
-            {% endfor %}
+            {% bibliography -f {{ site.scholar.bibliography }} --query '@*[selected="true"]' --sort_by 'year' --order descending --group_by none %}
           </div>
