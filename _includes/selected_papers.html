@@ -4,5 +4,5 @@
           </div> -->
 
           <div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} --group_by none --query @*[selected=true]*  --sort_by 'year' --reverse%}
+            {% bibliography -f {{ site.scholar.bibliography }} --group_by 'year' --sort_by 'year' --query @*[selected=true]*%}
         </div>
