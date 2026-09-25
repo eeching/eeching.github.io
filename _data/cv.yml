@@ -3,46 +3,114 @@
   contents:
     - title: Ph.D. in Computer Science
       institution: National University of Singapore
-      year: 2020-Present
+      year: 2020-2026
+      description:
+        - Advised by Prof. David Hsu
+        - "GPA: 5.00"
     - title: B.A. in Computer Science and B.A. in Applied Mathematics
       institution: National University of Singapore
       year: 2016-2020
-      
+      description:
+        - "Computer Science GPA: 4.81"
+        - "Applied Mathematics GPA: 4.89"
+
 - title: Research Experience
   type: time_table
   contents:
-    - title: Visiting PhD student
+    - title: Postdoctoral Scholar
+      institution: Stanford University, Computer Science
+      year: 2026-Present
+      description:
+        - Working with Prof. Jiajun Wu
+        - Developing structured interfaces for generalist robot policies, with a focus on human–VLA communication, explicit concept memory, compositional skill chaining, and adaptive planning and policy steering.
+
+    - title: Research Intern
+      institution: Allen Institute for Artificial Intelligence (AI2), Robotics (Seattle)
+      year: 2025-2026
+      description:
+        - Working with Prof. Dieter Fox
+        - Developed methods for task and goal specification for robot foundation models, studying how human objectives can be represented, grounded, and translated into robot-executable behavior.
+
+    - title: Visiting Ph.D. Student
       institution: CSAIL, MIT
       year: 2023-2024
       description:
-        - Advised by Prof. Prof. Leslie Kaelbling and Prof. Tomás Lozano-Pérez
-        - Developed "Set It Up!", a neuro-symbolic system that interprets and optimizes under-specified instructions for tabletop arrangements. Published at RSS 2024.
-       
-    - title: PhD student
-      institution: School of Computing, National Univeristy of Singapore
-      year: 2020-Present
-      description:
-        - Advised by Prof. David Hsu
-        - Designed IRL methods to scale up reward learning (Inverse RL) to long-horizon, high-dimensional tasks.
-        - Developed methods to learn human objectives from diverse sources—demonstrations, language instructions, pre-trained models, and synthetic data—and translated these signals into optimization.
-        - Built a simulator and benchmark for the Differentiable Deformable Object Manipulation methods.
+        - Advised by Prof. Leslie Kaelbling and Prof. Tomás Lozano-Pérez
+        - Developed "Set It Up!", a neuro-symbolic system that interprets and optimizes under-specified instructions for tabletop arrangements using very few demonstrations. Published at RSS 2024.
 
-- title: Professional Services
+- title: Professional Service
   type: time_table
-  contents: 
+  contents:
+    - title: LEAP Workshop at CoRL 2026
+      year: 2026, Nov
+      description:
+        - Workshop organizer.
+      linkitems:
+        - link: https://leap-workshop.github.io/
+          linkname: Website
+    - title: Second LEAP Workshop at CoRL 2024
+      institution: Munich, Germany
+      year: 2024, Nov
+      description:
+        - Co-organizer for the 2nd Workshop on Learning Effective Abstraction for Planning (LEAP) at the Conference on Robot Learning (CoRL) 2024.
+      linkitems:
+        - link: https://leap-workshop.github.io/
+          linkname: Website
     - title: Task Specification Workshop at RSS 2024
       institution: Delft, Netherlands
       year: 2024, July
       description:
         - Main organizer for the Workshop on Task Specification at RSS 2024.
-    - title: 2nd LEAP Workshop at CoRL 2024
-      institution: Munich, Germany
-      year: 2024, Nov
-      description:
-        - Co-organizer for the 2nd Workshop on Learning Effective Abstraction for Planning (LEAP) at Conference on Robot Learning (CoRL) 2024.
+      linkitems:
+        - link: https://sites.google.com/view/rss-taskspec
+          linkname: Website
     - title: Conference Reviewer
-      institution: NeurIPS, ICML, ICLR, RSS, ICRA, AAAI, AAMAS
-      year: 2021 - Present
+      institution: ICRA, RSS, AAMAS, AAAI, NeurIPS, ICLR, ICML
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: NUS Research Achievement Award
+      institution: National University of Singapore
+      year: 2022, 2025
+    - title: President's Graduate Fellowship
+      institution: National University of Singapore
+      year: 2020
+
+- title: Invited Talks & Presentations
+  type: time_table
+  contents:
+    - title: Invited Talk, Creativity in Assembly Workshop, IROS
+      year: 2026
+      linkitems:
+        - link: https://sites.google.com/view/creative-assembly-workshop
+          linkname: Website
+    - title: Invited Talk, Stanford Vision and Learning Lab, Stanford University
+      year: 2025
+    - title: Invited Talk, Personal Robotics Lab, University of Washington
+      year: 2025
+    - title: Invited Talk, Robotics Team, Allen Institute for Artificial Intelligence (AI2)
+      year: 2025
+    - title: Oral Presentation, Conference on Robot Learning (CoRL)
+      year: 2025
+
+- title: Mentorship
+  type: map
+  contents:
+    - name: Connie Jiang
+      value: Summer Intern — Now B.S., Massachusetts Institute of Technology (2023)
+    - name: Aishik Pyne
+      value: M.S., NUS — Now Founder, Stealth Startup (2024)
+    - name: Wanchen Li
+      value: Ph.D., University of Montpellier — Ongoing Research Mentorship (2025–present)
+    - name: Claire Yang
+      value: Ph.D., University of Washington — Ongoing Research Mentorship (Jan 2026–present)
+    - name: Emily Jin
+      value: Ph.D., Stanford University — Ongoing Research Mentorship (Mar 2026–present)
+    - name: Jisu Han
+      value: Ph.D., Seoul National University — Ongoing Research Mentorship (Mar 2026–present)
+    - name: Yize Liu
+      value: Ph.D., Stanford University — Ongoing Research Mentorship (Jul 2026–present)
 
 - title: Teaching
   type: time_table
@@ -53,10 +121,3 @@
       description:
         - Teaching Assistant
         - Conducted tutorials, graded assignments, and provided feedback to students.
-
-- title: Skills
-  type: list
-  contents: Python, Jax, Java, PyTorch, TensorFlow, Mujoco, IssacSim
-   
-
-
